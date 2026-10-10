@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Finder"
+  short_description: "Find and compare GitHub solutions"
+  default_prompt: "Use $github-finder to find and compare suitable GitHub solutions."
